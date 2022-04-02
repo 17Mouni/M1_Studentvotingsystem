@@ -76,3 +76,7 @@ It can help increase your voter turnout and give your election more legitimacy.
 ## High Level Requirments:
 ![Screenshot high level requirements](https://user-images.githubusercontent.com/101432937/161377478-396cc6be-696c-4ef3-a197-fa3d5f3afd40.png)
 
+## Low Level Requirements:
+![image](https://user-images.githubusercontent.com/101432937/161377963-43155a39-a541-46ab-b41b-d342332ae784.png)
+
+
