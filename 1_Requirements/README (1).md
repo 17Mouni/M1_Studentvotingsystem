@@ -63,7 +63,9 @@ All you need to vote online is a device connected to the internet. As the electi
 •	Lack of constitutional positions in support of e-voting.
 
 ### Opportunities:
-Student councils enable pupils to participated democratically within their school. Choosing the right voting procedure in student council elections is crucial because the whole student body should be able to take part. It can help increase your voter turnout and give your election more legitimacy.
+Student councils enable pupils to participated democratically within their school.
+Choosing the right voting procedure in student council elections is crucial because the whole student body should be able to take part.
+It can help increase your voter turnout and give your election more legitimacy.
 
 ### Threats:
 •	Computers are very complicated things and there is no way with any reasonable amount of resources that you can guarantee that the software and hard ware are bug-free and they haven’t been maliciously attacked.
