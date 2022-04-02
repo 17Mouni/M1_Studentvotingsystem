@@ -71,4 +71,6 @@ Student councils enable pupils to participated democratically within their schoo
 •	From that perspective , looking at a system that relies on the perfectibility of computers is a really bad idea.
 •	How easy would it be to hack a computerized system ? not very hard , as we can see from the frequent news stories about massive thefts of data from government and corporate web servers.
 •	And there are many other threats , including voters who are not experts in computer security and may be easily fooled , and potential for corrupt insiders at companies that produce the internet voting software.
-## 
+## High Level Requirments:
+![Screenshot high level requirements](https://user-images.githubusercontent.com/101432937/161377478-396cc6be-696c-4ef3-a197-fa3d5f3afd40.png)
+
